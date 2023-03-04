@@ -1,0 +1,8 @@
+inteiro:num1,num2,soma;
+escreva("Digiteoprimeironumero:");
+leia(num1);
+escreva("Digiteosegundonumero");
+leia(num2);
+soma<-num1+num2;
+escreva("asomadosnumerosé:",soma);
+
